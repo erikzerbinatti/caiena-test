@@ -6,4 +6,8 @@ class Car
   def run
     puts 'Running'
   end
+
+  def stop
+    puts 'STAP'
+  end
 end
