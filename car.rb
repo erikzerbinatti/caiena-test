@@ -11,6 +11,10 @@ class Car
     puts 'ruuuuuuuun'
   end
 
+  def crash
+    puts 'BOOOOOM!'
+  end
+
   def stop
     puts 'STAP'
   end
