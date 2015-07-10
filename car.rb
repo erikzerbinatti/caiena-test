@@ -7,6 +7,10 @@ class Car
     puts 'Running'
   end
 
+  def drift
+    puts 'ruuuuuuuun'
+  end
+
   def stop
     puts 'STAP'
   end
